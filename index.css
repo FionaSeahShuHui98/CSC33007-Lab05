@@ -1,0 +1,9 @@
+.country {
+    fill: green;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.country.selected {
+    fill: rebeccapurple;
+}
